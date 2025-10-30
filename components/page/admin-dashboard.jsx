@@ -356,7 +356,9 @@ export default function AdminDashboardPage() {
             </table>
           </div>
         </div>
+
         <RoleSwitcher />
+        </div>
       </MainLayout>
     </ProtectedRoute>
   );
